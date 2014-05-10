@@ -6,6 +6,10 @@ An [Alfred 2](http://www.alfredapp.com/) workflow to Pause and Sync [Backblaze](
 
 Download and open [Backblaze.alfredworkflow](Backblaze.alfredworkflow) using [Alfred 2](http://www.alfredapp.com/).
 
+## Use
+
+Type the keyword 'bz' followed by either 'Pause' or 'Sync'.
+
 ## About
 
 This workflow simply rums '/Library/Backblaze.bzpkg/bztransmit -pausebackup' and '/Library/Backblaze.bzpkg/bztransmit -completesync' for pausing and initiating sync, respectively.
