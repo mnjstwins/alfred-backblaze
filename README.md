@@ -12,7 +12,7 @@ Type the keyword 'bz' followed by either 'Pause' or 'Sync'.
 
 ## About
 
-This workflow simply rums '/Library/Backblaze.bzpkg/bztransmit -pausebackup' and '/Library/Backblaze.bzpkg/bztransmit -completesync' for pausing and initiating sync, respectively.
+This workflow simply runs '/Library/Backblaze.bzpkg/bztransmit -pausebackup' and '/Library/Backblaze.bzpkg/bztransmit -completesync' for pausing and initiating sync, respectively.
 
 The [Alfred-Workflow](http://www.deanishe.net/alfred-workflow/) python library is used for interface feedback and query filtering.
 
